@@ -66,3 +66,12 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+Tools used in this project
+
+https://unsplash.com/developers - API thar provides photos
+
+axios - Provides AJAX API to use with React, should be installed with npm
+    npm install --save axios
+
